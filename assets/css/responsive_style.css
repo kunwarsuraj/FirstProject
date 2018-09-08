@@ -1,0 +1,1624 @@
+@media (min-width: 768px) {
+
+
+/******************** Home 2 *****************************/
+#header2 .input_wrapper{ padding-right: 15px; }
+#partners ul.slick-dots li{ display: none; }
+#header2 .navbar-header{ width: 22%; }
+
+
+/******************* Home 3 ********************/
+#header3 .nav_warp ul li:first-child a{ padding-left: 42px; }
+#partners ul.slick-dots li{ display: none; }
+}
+
+
+@media (min-width: 768px) and (max-width: 1190px) {
+/***************** Home 3 ************************/	
+#header3 .search_section a{padding: 23px;}
+#header3 .navbar-header{ width: 24%; }
+#header3 .nav_warp ul li a{padding: 0 15px;}
+#header2 .nav_warp ul li:first-child{ margin-left: 100px;}	
+#header3 .nav_warp ul li{ padding: 18px 0; }
+}
+
+
+@media (min-width: 768px) and (max-width: 1185px) {
+#nav_section .nav_warp ul li{ padding: 20px; }
+#nav_section .nav_warp ul li:hover{ padding: 20px; }
+#nav_section .search_section{ padding-top: 22px; }
+#our_projects .project_info{ padding: 15px;}
+#nav_section .input_wrapper{ padding-right: 15px; }
+
+/***** contact us 1 *******/
+#nav_section .input_wrapper{ padding-right: 15px; }
+
+/************* news 4 *************/
+#news_list .project_text h2{ font-size: 28px; }
+
+/*************************** Shop 3 *****************/
+#tab_section .col_modi1{ width: 15%; }
+#tab_section .col_modi2{ width: 75%; }
+
+/**************************** shop 1 *************************/
+#shop_banner .carousel-control .glyphicon-chevron-right{ margin-right: 0; }
+}
+
+
+@media (min-width: 768px) and (max-width: 1160px){
+/***************** our team **********************/
+#get_in_touch .get_btn a{ font-size: 13px; padding: 12px 24px;}
+#inner_banner .banner_text h4{ font-size: 34px; }
+#our_team_1 .title_text h3{ font-size: 34px; }
+#get_in_touch .get_text h4{ font-size: 23px; }
+#get_in_touch .get_text{ font-size: 17px; }
+
+/******************* Home 2 **************************/	
+#map .form_wrapper{padding: 95px 15px 88px 60px;}
+#our_industry_2 .industry_text{padding: 0 15px 30px;}
+#header2 .nav_warp ul li:first-child{ margin-left: 37px; }
+#our_industry_2 .industry_img{ padding-top: 30px; }
+}
+
+
+@media (min-width: 768px) and (max-width: 1130px) {
+/************************* Home 3 **************************/	
+#top_header3 .text_wrap ul li a{ font-size: 13px; }
+#top_header3 .social_icon ul li a{ font-size: 13px; }
+#header3 .nav_warp ul li a{ font-size: 12px; padding: 0 12px;}
+#header3 .nav_warp ul li:first-child a{ padding-left: 32px; }
+#header3 .search_section a{    padding: 24px 14px; font-size: 13px;}
+#banner3 .banner_text h2{ font-size: 70px; }
+#banner3 .banner_text{ font-size: 17px; }
+#leader_counter .title_text h3{ font-size: 42px; }
+#leader_counter .title_text{ font-size: 17px; }
+#request_call .request_text{padding: 100px 15px 0 0;}
+#request_call .request_text h2{ font-size: 45px; }
+#request_call .request_form{ margin-right: 0; }
+#latest_news3 .title_text h3{ font-size: 32px; }
+#latest_news3 .news_text h3{ font-size: 20px; ;line-height: 30px; }
+#leader_counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 42px; }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 1100px) {
+/********************* About Us *************************/	
+#advise_section .advise_text_wrap{ padding: 62px 15px 0 30px;}
+#advise_section .main_counter_content .single_counter h2{ font-size: 48px; }
+
+/*********************** Career *************************/	
+#career_inner_banner .banner_text h2{ font-size: 50px; }
+#career_inner_banner .banner_text{ font-size: 16px; }
+#career_inner_banner .banner_text h4{ font-size: 15px; }
+#career .career_title h3{ font-size: 34px; }
+#career .about_career h3{ font-size: 34px; }
+#career .middle_title h3{ font-size: 34px; }
+
+/************************* Shop 3 ****************************/
+#about_product .product_info h3{ font-size: 38px; }
+#related_product .title_text h2{ font-size: 34px; }
+
+/************************** Shop 2 *******************************/
+#default_shop_page .left_sidebar .slider.slider-horizontal{ width: 100%; }
+#default_shop_page .shop_now img{ max-width: 60%; }
+#default_shop_page .latest_product .product_info{ font-size: 14px; }
+#default_shop_page .latest_product .product_info h6{ font-size: 16px; }
+#default_shop_page .book_img{padding: 70px 0;}
+
+/********************* Shop 1 *************************/
+#shop_banner .banner_text h2{ font-size: 40px;margin: 200px 0 10px 0; }
+#shop_banner .banner_bg{ min-height: 460px; }
+#shop_banner .carousel-control{ bottom: -35%;}
+#shop_our_industry .title_text h4{ font-size: 34px; }
+#newest_publication .title_text h2{ font-size: 34px; }
+
+/********************* Services 3 **********************/	
+#services_detail .question_section h3{ font-size: 27px; }
+#services_detail .question_section .accordion{ font-size: 14px; }
+
+/*********************** Services 2 *************************/
+#service_latest_news .news_text h4{ font-size: 22px; }
+#service_latest_news .news_text{ padding: 25px 15px;}	
+
+/************************ Services 1 **********************/	
+#service_industry .industry_text{ padding: 15px; font-size: 14px; background-size: 14%;}
+#service_industry .title_text h4{ font-size: 32px; }
+#service_industry .title_text{ font-size: 15px; }
+#service_industry .industry_text h5{ font-size: 18px; }
+
+
+/************************ Project 3 ************************/
+#project_section_3 .project_text h3{font-size: 26px;}
+#project_section_3 .project_3_padding2{ padding-left: 15px; }
+#project_section_3 .project_3_padding1{ padding-right: 15px; }	
+
+/************************ Project 1 ******************/
+#project_section .common_overlay1 h2{ font-size: 20px; line-height: 26px; }
+#project_section .common_overlay1{ padding: 15px; }
+
+/************************ Home 1 ******************/	
+#header .quote_btn a{ padding: 12px 19px; }
+#nav_section .search_section{ padding-top: 22px; }
+#header .contact_info{ font-size: 13px; }
+#partners .partner_wrap{ margin-bottom: 0; }
+#partners .partner_wrap ul li{ display: none; }
+
+/*********************** Home 2 **************************/
+#map .form_wrapper{padding: 80px 15px 75px 60px;}
+#banner2 .banner_text h2{ font-size: 52px; }
+#video_section .video_text h3{ font-size: 34px; }
+#video_section .video_text{ font-size: 14px; }
+#testimonial .testimonial_text h2{ font-size: 34px; }
+#testimonial .testimonial_text{ font-size: 16px; }
+#counter .title_text h3{ font-size: 34px; }
+#counter .title_text{ font-size: 16px; }
+#counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 38px; }
+#latest_news2 .title_text h3{ font-size: 34px; }
+#latest_news2 .news_text h3{ font-size: 20px; line-height: 30px; }
+#map .request_text h2{ font-size: 40px; }
+#footer .footer_text{ font-size: 13px; }
+#header2 .nav_warp ul li:first-child{margin-left: 38px;}
+#header2 .search_section a i.fa-search{ margin-right: 11px; }
+#header2 .nav_warp ul li a{ padding: 0 10px; }
+
+/******** contact us 1 ************/
+#contact_map .support_text{ padding-left: 0; font-size: 14px;}
+#contact_map .support_text p{ margin-bottom: 0; }
+#contact_map .map_img{ height: 400px; }
+#contact_map .support_wrap h2{ font-size: 32px; }
+#contact_map .support_text h4{ font-size: 22px; }
+
+#header .contact_info{ font-size: 13px; }
+#nav_section .nav_warp ul li{padding: 15px 13px;}
+#nav_section .nav_warp ul li:hover{ padding: 15px 13px; }
+
+#header .quote_btn a{ padding: 12px 18px; }
+#nav_section .search_section{ padding-top: 15px; }
+#footer .footer_text{ font-size: 13px; }
+
+/******************* contact style 2 ***********************/
+#contact_us .form_wrap{ padding-left: 0; }
+#copyright .social.social_yellow ul li{padding: 12px 10px;}
+#copyright .copyright_text{ font-size: 13px; padding: 13px 0; }
+
+#header .contact_info{ font-size: 13px; }
+#header .quote_btn a{ padding: 12px 18px; }
+#nav_section .search_section{ padding-top: 15px; }
+#footer .footer_text{ font-size: 13px; }
+
+/****************** error page ***********************/
+#error_section .content_wrap h1{ font-size: 200px; }
+#error_section{ padding: 80px 0; min-height: 700px; }
+
+/**************** news 1 ************************/
+#news_section .news_img{ min-height: 450px; }
+#news_section .news_text h3{ font-size: 32px; }
+
+/******************* news 2 ***********************/
+#news_section_2 .project_text{ padding: 15px; }
+#news_section_2 .project_text h3{ font-size: 23px; }
+
+/******************** news 3 ************************/
+#news_section_3 .news_3_padding1{ padding-right: 15px; }
+#news_section_3 .news_3_padding2{ padding-left: 15px; }
+#news_section_3 .project_text{ padding: 15px; }
+#news_section_3 .project_img1{ min-height: 200px; }
+#news_section_3 .project_img2{ min-height: 300px; }
+#news_section_3 .project_img3{ min-height: 400px; }
+#news_section_3 .project_text h3{ font-size: 26px; }
+
+/****************** news 4 ********************/
+#news_list .project_text{padding: 15px 15px 15px 30px; }
+#news_list .features ul li{ padding: 15px; }
+#news_list .features ul li a{ font-size: 14px; }
+#news_list .project_text h2{ font-size: 24px; }
+#news_list .project_img{ min-height: 300px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 22px; }
+#news_list .help_wrap h4{ font-size: 20px; }
+#news_list .help_wrap{ font-size: 14px; }
+}
+
+
+@media (min-width: 768px) and (max-width: 980px){
+
+/****************** Home 2 **********************/	
+#map .form_wrapper{ padding: 75px 15px 70px 60px;}
+#top_header2 .text_wrap ul li a{ font-size: 12px; }
+#header2 .nav_warp ul li:first-child{ margin-left: 28px; }
+#header2 .search_section a i.fa-search{ margin-right: 5px; }
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 960px){
+/*********************** About Us *************************/	
+#advise_section .advise_text_wrap{ padding: 40px 15px;}
+#advise_section .advise_text h3{ font-size: 30px; }
+#advise_section .main_counter_content .single_counter h2{ font-size: 44px; }
+#advise_section .m-b-1{ font-size: 30px; }
+#about_us_team .title_text h3{ font-size: 30px; }
+#about_us_team .team_img{ min-height: 200px; }
+#about_us_team .social ul li{ padding: 8px 0; }
+#about_us_team .social ul li a i{ font-size: 15px; }
+#history_section .about_history h2{ font-size: 30px; }
+
+/************************** Career *****************************/	
+#career_inner_banner .banner_text h2{ font-size: 48px; }
+#career_inner_banner .banner_text h4{ font-size: 14px; }
+#career_inner_banner .banner_text{ font-size: 15px; }
+#career_inner_banner .banner_text a{font-size: 13px; padding: 10px 22px;}
+#career_inner_banner{ padding: 100px 0; min-height: 450px; }
+#career .career_title h3{ font-size: 32px; }
+#career .about_career h3{ font-size: 32px; }
+#career .middle_title h3{ font-size: 32px; }
+#career .middle_title h4{ font-size: 22px; }
+#career .apply_btn a{ padding: 12px 18px; }
+#career .about_career{ padding-left: 0; }
+
+/********************** shop 3 ************************/	
+#about_product .product_info h3{ font-size: 32px; }
+#about_product .product_info h4{ font-size: 20px; }
+#about_product .product_info{ font-size: 14px; }
+#about_product .input-group button.quantity-left-minus, #about_product .input-group button.quantity-right-plus{padding: 12px 15px;}
+#about_product .social_wrap{ font-size: 14px; }
+#tab_section .nav_wrapper ul.nav li a{ font-size: 13px; }
+#related_product .title_text h2{ font-size: 30px; }
+#related_product .book_info{ font-size: 15px; }
+#related_product .book_info h6{ font-size: 16px; }
+#tab_section .form_wrap input[type=text]{margin: 16px 27px 20px 0;}
+#tab_section .your_rating .rating_text{ width: 15%; }
+#tab_section .your_rating .rating_icon{ width: 75%; }
+#tab_section .tab-content{ padding: 20px; }
+#tab_section .your_rating .rating_icon i{ font-size: 12px; }
+
+/********************* Shop 2 *****************************/
+#default_shop_page .features ul li a{ font-size: 14px; }
+#default_shop_page .shop_now{ font-size: 20px; }
+#default_shop_page .shop_now img{ width: 50%; }
+#default_shop_page .shop_now a{ font-size: 11px; }
+#default_shop_page .latest_product .product_info{ font-size: 12px; }
+#default_shop_page .latest_product .product_info h6{ font-size: 14px; }
+#default_shop_page .book_img{min-height: 250px; padding: 60px 0;}
+#default_shop_page .book_info{ font-size: 14px; }
+#default_shop_page .book_info h6{ font-size: 15px; }
+
+/********************* Shop 1 ***************************/
+#shop_banner .banner_text h2{ font-size: 35px; margin: 115px 0 10px 0; }
+#shop_banner .banner_bg{ min-height: 300px; }
+#shop_banner .carousel-control{ bottom: -22%;}
+#shop_banner .banner_text a{ font-size: 15px; }
+#shop_our_industry .title_text h4{ font-size: 32px; }
+#shop_our_industry .title_text{ font-size: 15px; }
+#shop_our_industry .industry_text h5{ font-size: 17px; }
+#shop_our_industry .industry_text{ font-size: 14px; }
+#newest_publication .title_text h2{ font-size: 32px; }
+#newest_publication .book_img img{ max-width: 60%; }
+#newest_publication .book_img{ min-height: 332px; }
+#newest_publication .book_info{ font-size: 15px; }
+#newest_publication .book_info h6{ font-size: 16px; }
+
+/************************* Services 3 ************************/
+#services_detail .features ul li{ padding: 15px 14px;}
+#services_detail .features ul li a{ font-size: 13px; }
+#services_detail .specialist_section .text_body h4{ font-size: 22px; }
+#services_detail .question_section h3{ font-size: 25px; margin: 0 0 36px;}
+#services_detail .question_section .accordion{ font-size: 13px;}
+#services_detail .nav_wrapper ul.nav li a{ font-size: 13px; }
+#services_detail .tab-content{ font-size: 14px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 20px; }
+#services_detail .tab-content h3{ font-size: 22px; }
+#services_detail .help_wrap a{padding: 8px 36px;}	
+
+/******************* Services 2 *********************/
+#service_latest_news .news_img{ min-height: 200px; }
+#service_latest_news .news_text{ padding: 15px; min-height: 150px;}
+#service_latest_news .news_text h4{ font-size: 20px; }
+
+/********* Project 5 **********/
+#project_section_5 .about_project h3{ font-size: 26px; }
+
+/***** Project 4 ******/
+#project_section_4 .project_text h3{ font-size: 20px; }
+
+/************************* Project 3 **************************/	
+#project_section_3 .project_text{ padding: 15px; }
+#project_section_3 .project_img{ min-height: 200px; }
+#project_section_3 .project_text h3{ font-size: 24px; line-height: 32px; }
+
+/************************ Project 2 ***************************/
+#project_section_2 .project_img{ min-height: 300px; }
+#project_section_2 .project_text{padding: 30px;}
+#project_section_2 .project_text h2{ font-size: 24px; line-height: 34px; }
+
+/******************** Project 1 *****************************/
+#project_section .common_bg h2{ font-size: 26px; }
+#project_section .common_overlay1 h2{font-size: 16px;line-height: 22px;}
+
+/********************** our team 2 *************************/
+#our_team_2 .team_img{ min-height: 170px; }
+#our_team_2 .team_info{ font-size: 16px; padding: 9px 0; line-height: 18px;}
+#our_team_2 .team_info p span{ font-size: 13px; }
+#our_team_2 .social ul li{padding: 21px 0;}
+#our_team_2 .title_text h3{ font-size: 32px; }
+
+/********************** Our team 1 ****************************/
+#our_team_1 .title_text h3{ font-size: 32px; }
+#our_team_1 .team_info{ font-size: 17px; }
+#our_team_1 .team_info p span{ font-size: 14px; }
+#our_team_1 .team_img{min-height: 170px;}
+#get_in_touch .get_text h4{font-size: 22px;}
+#get_in_touch .get_text{ font-size: 16px; }
+#get_in_touch .get_btn a{ font-size: 12px;padding: 10px 18px; }
+
+
+/********************* Home 1 **************************/	
+#header .contact_info h6{ font-size: 15px; }
+#header .contact_info .icon_wrap i{font-size: 24px;
+    position: relative;
+    top: 30px;}
+#header .quote_btn a{ padding: 12px 16px; font-size: 13px;}  
+#banner .banner_bg{ padding: 100px 0; } 
+#banner .banner_text h2{ font-size: 48px; }
+#our_industry .title_text h4{ font-size: 34px; }
+#our_projects .project_text h3{ font-size: 34px; }
+#testimonial .testimonial_text h2{ font-size: 34px; }
+#header .contact_info{ font-size: 12px; }
+#nav_section .search_section i{ font-size: 12px; }
+#nav_section .search_section{ padding-top: 15px; }
+#nav_section .input_wrapper input.search-text{ height: 35px;}
+#our_projects .project_img{ min-height: 200px; }
+#our_projects .project_info{ font-size: 14px; line-height: 18px;}
+#our_projects .project_info p:before{ font-size: 20px; right: -4px;}
+#our_projects .project_info p span{ font-size: 12px; }
+#header .contact_info .icon_wrap span:before{ padding: 16px; left: -2px; }
+#submit_request .request_text h2{ font-size: 34px; }
+#latest_news .title_text h3{ font-size: 34px; }
+#latest_news .news_text{padding: 20px 22px;}
+#latest_news .news_text h4{ font-size: 19px; }
+
+/********************** Home 2 ***********************/
+#map .form_wrapper{ padding: 80px 15px 70px 55px;}
+#map .form_wrapper{padding: 60px 15px 60px 55px;}
+#header2 .nav_warp ul li a{ padding: 0 8px; }
+
+/******************* Home 3 ****************************/
+#features .industry_text{ padding: 0 15px 50px;}
+#header3 .search_section a{ float: right; }
+#top_header3 .text_wrap ul li a{ font-size: 12px; }
+#top_header3 .social_icon ul li a{ font-size: 12px; }
+#top_header3 .social_icon ul li{ padding: 0 4px; }
+#header3 .nav_warp ul li a{ font-size: 12px; padding: 0 6px;}
+#header3 .nav_warp ul li:first-child a{ padding-left: 38px; }
+#header3 .search_section a{padding: 24px 12px; font-size: 12px;}
+#top_header3 .input_wrapper input.search-text{ height: 35px; }
+#banner3 .banner_text h2{ font-size: 68px; }
+#banner3 .banner_text{ o\font-size: 17px; }
+#leader_counter .title_text h3{ font-size: 40px; }
+#leader_counter .title_text{ font-size: 16px; line-height: 30px; }
+#leader_counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 44px; }
+
+#request_call .request_text h2{ font-size: 44px; }
+#request_call .request_form{ margin-right: 0; }
+#latest_news3 .title_text h3{ font-size: 32px; }
+#latest_news3 .news_text h3{ font-size: 18px; line-height: 26px; }
+#latest_news3 .news_text{padding: 5px 0 0;}
+
+
+/************* contact us 1 ******************/
+#contact_map .location_text h5{ font-size: 22px; }
+#contact_map .location_text{ font-size: 13px; }
+#contact_map .map_img{ height: 350px; }
+#contact_map .support_wrap h2{ font-size: 28px; }
+#contact_map .support_text h4{ font-size: 20px; margin: 0 0 10px;}
+#contact_map .support_img{ min-height: 150px; }
+
+#header .contact_info .icon_wrap i{ position: relative; top: 30px;}
+#header .contact_info{ font-size: 12px; }
+#nav_section .nav_warp ul li{ padding: 15px 10px;} 
+#nav_section .nav_warp ul li:hover{ padding: 15px 10px; }
+#nav_section .input_wrapper input.search-text{ height: 35px; }
+
+#header .contact_info h6{ font-size: 15px; }
+#header .quote_btn a{ padding: 12px 16px; font-size: 13px;}  
+#nav_section .search_section{ padding-top: 15px; }
+#footer .footer_text{ font-size: 11px; }
+#footer .recent_news{ font-size: 14px; }
+#copyright .social.social_yellow ul li{ padding: 10px; }
+#copyright .social.social_yellow ul li a i{ font-size: 14px; }
+#copyright .copyright_text{padding: 10px 0; font-size: 13px;}
+#inner_banner .banner_text h4{ font-size: 32px; }
+
+/***************** contact style 2 ********************/
+#contact_us .map_img{ height: 500px; }
+#contact_us .form_wrap h2{ font-size: 32px; }
+#contact_us .form_wrap p{ margin-bottom: 30px; }
+#contact_us .form_wrap input[type=text], #contact_us .form_wrap input[type=email]{ margin-bottom: 20px; }
+#contact_us{ padding: 60px 0; }
+
+#header .contact_info{ font-size: 12px; } 
+#nav_section .input_wrapper input.search-text{ height: 35px; }
+
+#header .contact_info h6{ font-size: 15px; }
+#header .quote_btn a{ padding: 12px 16px; font-size: 13px;}  
+#nav_section .search_section{ padding-top: 15px; }
+#footer .footer_text{ font-size: 11px; }
+#footer .recent_news{ font-size: 14px; }
+#copyright .social.social_yellow ul li{ padding: 10px; }
+#copyright .social.social_yellow ul li a i{ font-size: 14px; }
+#copyright .copyright_text{padding: 10px 0; font-size: 13px;}
+#inner_banner .banner_text h4{ font-size: 32px; }
+
+/******************* error page *************************/
+#error_section .content_wrap h1{ font-size: 180px; }
+#error_section{ padding: 80px 0; min-height: 650px; }
+
+/**************** news 1 *********************/
+#news_section .news_img{ min-height: 300px; }
+#news_section .news_text h3{ font-size: 30px; }
+
+/******************** news 2 ***********************/
+#news_section_2 .project_text h3{ font-size: 22px; line-height: 28px; }
+#news_section_2 .project_img{ min-height: 200px; }
+
+/********************** news 3 *************************/
+#news_section_3 .project_img1{ min-height: 186px; }
+#news_section_3 .project_img2{ min-height: 260px; }
+#news_section_3 .project_img3{ min-height: 350px; }
+#news_section_3 .project_text h3{ font-size: 24px; }
+
+/******************** news 4 *********************/
+#news_list .features ul li a{ font-size: 13px; }
+#news_list .project_text h2{ font-size: 22px; }
+#myCarousel_testimonial .carousel-inner .testimonial{ font-size: 16px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 20px; }
+#news_list .help_wrap a{ padding: 8px 32px;}
+#news_list .help_wrap h4{ font-size: 18px; }
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 900px){
+/************************* About Us *************************/	
+#advise_section .advise_text h3{ font-size: 24px; }
+#advise_section .advise_text{ font-size: 13px; }
+#advise_section .main_counter_content .single_counter h2{ font-size: 35px; }
+#advise_section .main_counter_content .single_counter{ font-size: 12px; margin: 0;}
+#advise_section .advise_text_wrap{ padding: 15px 15px 0;  min-height: 580px;}
+#advise_section .advise_img{ min-height: 580px; }
+#about_us_team .title_text h3{ font-size: 26px; }
+#about_us_team .team_img{ min-height: 150px; }
+#about_us_team .team_info{ font-size: 16px; }
+#about_us_team .team_info p span{ font-size: 13px; }
+#about_us_team .social ul li{padding: 5px 0;}
+#about_us_team .social ul li a i{font-size: 12px;}
+#history_section .about_history h2{ font-size: 26px; }
+#history_section .time-table h6{ font-size: 16px; }
+#history_section .timeline-des h6{ font-size: 16px; }
+#about_us_team{ padding: 50px 0; }
+
+/********************* Career ******************************/	
+#career_inner_banner{ padding: 100px 0; min-height: 450px; }
+#career_inner_banner .banner_text h2{ font-size: 40px; margin: 0 0 15px;}
+#career_inner_banner .banner_text h4{ font-size: 14px; }
+#career_inner_banner .banner_text{ font-size: 14px; line-height: 28px; }
+#career_inner_banner .banner_text a{ font-size: 12px;padding: 10px 22px; }
+#career .career_title h3{ font-size: 28px; }
+#career .career_title a{ font-size: 14px; }
+#career .career_title span.expanded_text{ font-size: 14px; }
+#career .about_career h3{ font-size: 28px; }
+#career .about_career{ font-size: 14px; padding-left: 0; }
+#career .top_img{ min-height: 210px; }
+#career .btm_img{ min-height: 150px; }
+#career .middle_title h3{ font-size: 28px; }
+#career .middle_title{ font-size: 14px; }
+#career .middle_title h4{ font-size: 20px; }
+#career .info_text{ font-size: 14px; }
+#career .apply_btn a{ font-size: 11px; padding: 10px 16px;}
+
+/************************* Shop 3 *****************************/
+#about_product .book_img{ min-height: 330px; padding-top: 40px;}
+#about_product .product_info h3{  font-size: 28px; }
+#about_product .product_info h4{ font-size: 20px; }
+#about_product .product_info{ font-size: 13px; padding-bottom: 26px;}
+#about_product .add_to_cart{padding: 24px 0;}
+#about_product .input-group button.quantity-left-minus, #about_product .input-group button.quantity-right-plus{padding: 8px 10px;}
+#about_product .input-group input[type=text]{ min-height: 38px; padding: 14px 5px;}
+#about_product .add_btn a{padding: 10px 18px; font-size: 11px;}
+#about_product .social_wrap{ font-size: 13px; padding-top: 25px;}
+#tab_section .nav_wrapper ul.nav li a{font-size: 12px;}
+#related_product .title_text h2{ font-size: 28px; }
+#related_product .book_img img{ max-width: 45%; }
+#related_product .book_img{ min-height: 255px; }
+#related_product .book_info{ font-size: 14px; }
+#related_product .book_info p{ margin-bottom: 0; }
+#related_product .book_info h6{ font-size: 15px; }
+#tab_section .form_wrap input[type=text]{ margin: 16px 23px 20px 0;}
+
+/*********************** Shop 2 **************************/
+#default_shop_page .features ul li a{ font-size: 13px; }
+#default_shop_page .features ul li{ padding: 15px 10px; }
+#default_shop_page .filter_section h5{ font-size: 12px; }
+#default_shop_page .filter_section{ font-size: 11px; }
+#default_shop_page .left_sidebar .slider.slider-horizontal{ width: 165px; }
+#default_shop_page .filter_section a{padding: 8px 32px; font-size: 11px;}
+#default_shop_page .shop_now p span{ font-size: 12px; }
+#default_shop_page .shop_now{ font-size: 16px; }
+#default_shop_page .shop_now img{ max-width: 50%; }
+#default_shop_page .shop_now a{ font-size: 11px; padding: 2px 22px;}
+#default_shop_page .latest_product h4{ font-size: 12px; }
+#default_shop_page .latest_product .product_info{ font-size: 10px; }
+#default_shop_page .latest_product .product_info h6{ font-size: 12px; }
+#default_shop_page .book_img{ min-height: 160px; padding: 28px 0;}
+#default_shop_page .book_info{ font-size: 12px; }
+#default_shop_page .book_info h6{ font-size: 14px; }
+#default_shop_page .book_info p{ margin-bottom: 0; }
+#default_shop_page .latest_product .product_img{ padding: 12px 0; }
+
+/************************* Shop 1 **********************/
+#shop_banner .banner_text h2{ font-size: 28px;  margin:100px 0 10px 0;}
+#shop_banner .banner_bg{ min-height: 200px; }
+#shop_banner .banner_text a{ font-size: 14px; }
+#shop_banner .carousel-control{ bottom: -22%;}
+#shop_banner .carousel-control .glyphicon-chevron-left, #shop_banner .carousel-control .glyphicon-chevron-right{ font-size: 16px; width: 25px; height: 25px; margin-right: 0;}
+#shop_our_industry .title_text h4{ font-size: 26px; }
+#shop_our_industry .title_text{ font-size: 13px; }
+#shop_our_industry .industry_img{ min-height: 150px; }
+#shop_our_industry .industry_text h5{ font-size: 16px; }
+#shop_our_industry .industry_text{font-size: 13px;line-height: 23px;}
+#shop_our_industry .industry_text a{ font-size: 12px; }
+#newest_publication .title_text h2{ font-size: 26px; }
+#newest_publication .book_img img{ max-width: 40%; }
+#newest_publication .book_img{ min-height: 180px;padding: 30px 0;}
+#newest_publication .book_info{ font-size: 14px; }
+#newest_publication .book_info p{ margin-bottom: 0; }
+#newest_publication .book_info h6{ font-size: 14px; }
+#shop_banner .banner_text span.expanded_text{ font-size: 13px; }
+
+/************************ Services 3 *******************************/
+#services_detail .specialist_section .text_body h4{ font-size: 20px; }
+#services_detail .specialist_section .text_body{ font-size: 14px; }
+#services_detail .question_section .video_img{ min-height: 150px; }
+#services_detail .question_section h3{ font-size: 20px; margin: 0 0 12px;}
+#services_detail .question_section .accordion{ font-size: 10px; margin-bottom: 0; }
+#services_detail .question_section .panel{ font-size: 11px; line-height: 16px; }
+#inner_banner .banner_text h4{ font-size: 28px; }
+#inner_banner .banner_text a{ font-size: 14px; }
+#inner_banner .banner_text span.expanded_text{ font-size: 14px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 16px; }
+#myCarousel_testimonial .carousel-inner .overview{ font-size: 11px; }
+#services_detail .help_wrap a{ font-size: 11px;padding: 8px 15px; }
+#services_detail .help_wrap h4{ font-size: 15px; }
+#services_detail .help_wrap{font-size: 12px; line-height: 22px;}
+#services_detail .nav_wrapper ul.nav li a{ font-size: 11px; }
+#services_detail .tab-content{ font-size: 12px; }
+#services_detail .tab-content h3{ font-size: 20px; }
+#services_detail .features ul li{ padding: 10px; }
+#services_detail .features ul li a{ font-size: 12px; }
+#services_detail .specialist_section .img_body{ min-height: 200px; }
+#services_detail .question_section{padding-bottom: 40px;}
+
+/********************** Services 2 ************************/
+#service_latest_news .news_img{ min-height: 150px; }
+#service_latest_news .news_text h4{ font-size: 18px; }
+
+/********************** Services 1 ***********************/
+#service_industry .title_text h4{ font-size: 30px; }
+#service_industry .title_text{ font-size: 14px; }
+#service_industry .industry_text{ font-size: 14px; background-size: 14%;}
+#service_industry .industry_text h5{ font-size: 18px; }
+
+/******************* Project 5 *********************/
+#project_section_5 .about_project h3{ font-size: 24px; }
+#project_section_5 .about_project{ font-size: 13px; }
+#project_section_5 .top_img{ min-height: 150px; }
+#project_section_5 .middle_img{ min-height: 250px; }
+#project_section_5 .btm_left_img{ min-height: 170px; }
+#project_section_5 .btm_right_img{ min-height: 170px; }
+#project_section_5 .project_info ul li{ font-size: 12px; }
+
+/******************************** Project 4 ****************************/
+#project_section_4 .project_img{ min-height: 150px; }
+#project_section_4 .project_text{ padding: 15px; }
+#project_section_4 .project_text h3{ font-size: 18px; line-height: 28px; }
+#project_section_4 .pagination_wrap ul li a{ font-size: 12px; }
+
+/************************* Project 3 *********************************/
+#project_section_3 .project_img{ min-height: 150px; }
+#project_section_3 .project_text h3{ font-size: 22px; line-height: 28px; }
+#project_section_3 .pagination_wrap ul li a{ font-size: 12px; }
+
+/*************************** Project 2 ******************************/
+#project_section_2 .project_text{ padding: 22px 15px;  font-size: 13px;}
+#project_section_2 .project_text h2{ font-size: 18px; }
+#project_section_2 .pagination_wrap ul li a{ font-size: 11px; }
+#project_section_2 .project_img{ min-height: 250px; }
+#project_section_2 .project_img{ width: 48%; }
+
+/*********************** Project 1 **************************/
+#project_section .common_bg2{ min-height: 570px; }
+#project_section .common_overlay1{font-size: 10px; padding: 15px;}
+#project_section .common_overlay2{ padding: 160px 15px; }
+#project_section .common_bg h2{ font-size: 28px; }
+#project_section .common_overlay1 h2{font-size: 16px; line-height: 22px;}
+
+/************************* Our team 2 *******************/
+#our_team_2 .team_img{ min-height: 150px; }
+#our_team_2 .team_info{ font-size: 15px; padding: 6px 0;}
+#our_team_2 .team_info p span{ font-size: 11px; line-height: 16px; }
+#our_team_2 .social ul li{padding: 14px 0;}
+#our_team_2 .title_text h3{ font-size: 30px; }
+#our_team_2 .title_text{font-size: 14px;}
+#our_team_2 .social ul li a i{ font-size: 14px; }
+
+/*********************** Our team 1 ***************************/
+#get_in_touch .get_text h4{ font-size: 20px; }
+#get_in_touch .get_text{ font-size: 16px; }
+#get_in_touch .get_btn a{ font-size: 11px;padding: 8px 12px; }
+#our_team_1 .team_img{ min-height: 148px;}
+#our_team_1 .team_info{ font-size: 15px; }
+#our_team_1 .team_info p span{ font-size: 13px; }
+#our_team_1{ padding: 40px 0;}
+#our_team_1 .title_text h3{ font-size: 30px; }
+#our_team_1 .social ul li{ padding: 8px 0; }
+#our_team_1 .social ul li a i{ font-size: 15px; }
+
+/*********************** Home 1 **************************/	
+#header .contact_info{ font-size: 11px; }
+#header .contact_info h6{ font-size: 12px; }
+#header .contact_info .icon_wrap i{ font-size: 16px; top: 24px; position: relative;}
+#header .quote_btn a{ font-size: 12px; padding: 10px 8px;}
+#header .contact_info .icon_wrap span:before{ padding: 14px; left: -4px;}
+#nav_section .nav_warp ul li a{ font-size: 12px;}
+#nav_section .nav_warp ul li{padding: 12px 8px;}  
+#nav_section .nav_warp ul li:hover{padding: 12px 8px;} 
+#nav_section .search_section i{ font-size: 12px; }
+#nav_section .input_wrapper input.search-text{ height: 30px;}
+#nav_section .search_section{ padding-top: 14px; }
+#banner .banner_bg{ padding: 80px 0; }  
+#banner .banner_text h2{ font-size: 40px; }
+#banner .banner_text{ font-size: 16px; }
+#banner .btn_wrap a{ font-size: 12px; padding: 12px 25px; }
+#our_industry .title_text h4{ font-size: 30px; }
+#our_industry .title_text{ font-size: 14px; }
+#our_industry .industry_text{ padding: 15px; font-size: 14px; background-size: 16%;}
+#our_industry .industry_text h5{ font-size: 18px; }
+#our_projects .project_text h3{ font-size: 28px; }
+#our_projects .project_text{ font-size: 14px; }
+#our_projects .show_btn a{ font-size: 12px; padding: 8px 20px;}
+#our_projects .project_img{ min-height: 150px; }
+#our_projects .project_info{ padding: 10px; font-size: 13px; line-height: 16px;}
+#our_projects .project_info p span{ font-size: 11px; }
+#our_projects .project_info p:before{ font-size: 16px; right: -5px;}
+#testimonial .testimonial_text h2{ font-size: 30px; }
+#testimonial .testimonial_text{ font-size: 16px; }
+#submit_request .request_text h2{ font-size: 30px; }
+#submit_request .form_wrap input[type=email]{ width: 23%; }
+#latest_news .title_text h3{ font-size: 30px; }
+#latest_news .news_text{ padding: 15px; }
+#latest_news .news_text h4{ font-size: 16px; }
+#footer .footer_text{ font-size: 10px; }
+#footer .footer_text ul li{ margin-bottom: 5px; }
+#footer .footer_text h4{ font-size: 14px; }
+#footer .recent_news{ font-size: 12px; }
+#footer button{ min-height: 26px; padding: 6px 12px; font-size: 12px;}
+#footer .footer_text input[type=email]{min-height: 30px; padding: 10px 20px;}
+#partners .partner_wrap ul li img{ width: 80%; }
+
+#footer .footer_text a img{ width: 80%; }
+#footer .footer_text a{ font-size: 12px; }
+#partners .partner_wrap img{ max-width: 50%; }
+#quote-carousel .carousel-indicators .active{ width: 80px; height: 80px; }
+#quote-carousel .carousel-indicators li{ height: 30px; width: 30px; }
+#testimonial .testimonial_text p{ min-height: 140px; }
+#latest_news .news_img{ min-height: 150px; }
+#footer .footer_text ul li a{ font-size: 12px; }
+#copyright .social.social_yellow ul li{ padding: 8px; }
+#copyright .social.social_yellow ul li a i{ font-size: 12px; }
+#copyright .copyright_text{ font-size: 12px; padding: 11px 0; }
+
+
+/*******************Home 2 ***********************/
+#top_header2 .text_wrap ul li:first-child{ padding-right: 5px; margin-right: 0;}
+#top_header2 .text_wrap ul li a{ font-size: 11px; }
+#header2 .search_section a i{ font-size: 12px; }
+#banner2 .banner_bg{ padding: 75px 0; min-height: 530px;}
+#banner2 .banner_text h2{ font-size: 42px; }
+#video_section .width_2{ padding-left: 15px;}
+#video_section .video_text h3{ font-size: 32px; }
+#video_section .video_text{ font-size: 13px; }
+#testimonial .testimonial_text h2{ font-size: 32px; }
+#counter .title_text h3{ font-size: 32px; }
+#counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 34px; }
+#latest_news2 .title_text h3{ font-size: 32px; }
+#latest_news2 .news_text h3{ font-size: 18px; line-height: 25px; }
+#latest_news2 .news_text{ padding: 0; }
+#map .request_text h2{ font-size: 32px; }
+#map .request_text{ font-size: 14px; }
+#footer .footer_text h4{ font-size: 14px; }
+#footer .footer_text a{ font-size: 12px; }
+#footer .footer_text{ font-size: 12px; }
+#copyright .copyright_text{ font-size: 12px; }
+#partners .partner_wrap img{ max-width: 60%; }
+#header2 .nav_warp ul li:first-child{ margin-left: 44px;}
+#header2 .nav_warp ul li{ padding: 14px 0;}
+#header2 .nav_warp ul li a{ font-size: 11px; padding: 0 8px;}
+#header2 .navbar-header{ width: 20%; }
+#header2 .btn_wrapper{ padding-top: 18px; }
+#header2 .search_section a i{ font-size: 11px; }
+#header2 .input_wrapper input.search-text{ height: 30px; }
+#our_industry_2 .industry_text{ font-size: 14px; }
+#map .form_wrapper{padding: 70px 20px;}
+#header2 .search_section a i.fa-search{ margin-right: 1px; }
+#map .request_text input[type=text]{ padding: 8px 20px; min-height: 40px; font-size: 12px;}
+#map .request_text button{ min-height: 40px; padding: 8px 20px; }
+
+/************ Home 3 *******************************/
+#top_header3 .text_wrap ul li a{ font-size: 11px; }
+#top_header3 .social_icon ul li{ padding: 0 3px; }
+#top_header3 .social_icon ul li a{ font-size: 11px; }
+#top_header3 .social_icon ul li a i{ font-size: 11px; }
+#top_header3 .social_icon ul li.left_border{padding-left: 10px; margin-left: 10px;}
+#header3 .nav_warp ul li a{ font-size: 10px; padding: 0 8px; line-height: 24px;}
+#header3 .search_section a{ font-size: 10px; padding: 21px 13px;}
+#testimonial .testimonial_text h2{ font-size: 30px; }
+#testimonial .testimonial_text{ font-size: 15px; }
+#top_header3 .input_wrapper input.search-text{ height: 30px; }
+#banner3{padding: 250px 0 200px; min-height: 654px;}
+#banner3 .banner_text h2{ font-size: 60px; }
+#banner3 .banner_text{ font-size: 16px; }
+#features .industry_text{ font-size: 14px; }
+#features .industry_text h4{ font-size: 16px; }
+#features .btm_features .feature_text{ font-size: 14px; }
+#features .btm_features .feature_text h4{ font-size: 16px; }
+#features .feature_img{ width: 27%; }
+#leader_counter .title_text h3{ font-size: 35px; }
+#leader_counter .title_text{ font-size: 16px; line-height: 30px; }
+#leader_counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 38px; }
+#request_call .request_text{padding: 100px 20px 0 0; font-size: 15px;}
+#request_call .request_text h2{ font-size: 40px; }
+#request_call .request_form{ margin-right: 0; }
+#latest_news3 .title_text h3{ font-size: 30px; }
+#latest_news3 .news_text h3{ font-size: 18px; line-height: 24px; }
+#latest_news3 .news_text{ padding: 0; line-height: 30px; }
+#footer3 .footer_text h4{ font-size: 15px; }
+#footer3 .footer_text a{ font-size: 13px; }
+#header3 .nav_warp ul li{ padding: 18px 0; }
+#top_header3 .social_icon select.selectpicker{font-size: 12px;}
+
+/************ contact us 1 ****************/
+#contact_map .map_img{ height: 200px; }
+#contact_map .location_text h5{ font-size: 18px; }
+#contact_map .location_text{ font-size: 11px; }
+#contact_map .support_wrap h2{ font-size: 24px; }
+#contact_map .support_img{ min-height: 120px; }
+#contact_map .location_wrap{ padding-bottom: 50px; margin-bottom: 50px; }
+#contact_map .support_text h4{ font-size: 18px; margin: 0 0 5px;}
+#contact_map .support_text{ font-size: 12px; }
+#contact_map .form_wrap input[type=text]{ padding: 10px 20px;}
+#contact_map .form_wrap input[type=email]{padding: 10px 20px;}
+#contact_map .form_wrap button{ font-size: 12px; min-height: 40px; padding: 5px 20px; }
+#contact_map .form_wrap textarea{ margin-bottom: 30px;}
+#contact_map{ padding: 50px 0; }
+
+#header .contact_info .icon_wrap i{ font-size: 16px; top: 30px; position: relative;}
+#header .contact_info .icon_wrap span:before{ padding: 16px;left: -5px; top: 16px;}
+#header .contact_info{ font-size: 11px; }
+#nav_section .input_wrapper input.search-text{ height: 30px; }
+
+
+#header .contact_info h6{ font-size: 12px; }
+#header .quote_btn a{ font-size: 12px; padding: 10px 8px;}
+#nav_section .nav_warp ul li a{ font-size: 12px;}  
+#nav_section .search_section{ padding-top: 12px; }
+#footer .footer_text{ font-size: 10px; }
+#footer .footer_text ul li{ margin-bottom: 5px; }
+#footer .footer_text h4{ font-size: 14px; }
+#footer .recent_news{ font-size: 12px; }
+#footer .footer_text a img{ width: 80%; }
+#footer .footer_text a{ font-size: 12px; }
+#footer .footer_text ul li a{ font-size: 12px; }
+#copyright .social.social_yellow ul li{ padding: 10px; }
+#copyright .social.social_yellow ul li a i{ font-size: 12px; }
+#copyright .copyright_text{ font-size: 12px; padding: 10px 0;}
+
+/******************* contact style 2 **********************/
+#contact_us .map_img{ height: 400px; }
+#contact_us .form_wrap h2{ font-size: 28px; }
+#contact_us .form_wrap{ font-size: 12px; }
+#contact_us .form_wrap p{ margin-bottom: 25px; }
+#contact_us .form_wrap textarea{ margin-bottom: 25px; }
+#contact_us .form_wrap input[type=text]{ padding: 5px 20px; margin-bottom: 15px; min-height: 36px;}
+#contact_us .form_wrap input[type=email]{ padding: 5px 20px; margin-bottom: 15px; min-height: 36px;}
+#contact_us{ padding: 45px 0; }
+
+/******************* error page ************************/
+#error_section .content_wrap h1{ font-size: 160px; }
+#error_section .content_wrap h3{ font-size: 38px; }
+#error_section{ padding: 80px 0; min-height: 600px; }
+
+/******************** news 1 *****************************/
+#news_section .news_img{ min-height: 250px; }
+#news_section .news_text h3{ font-size: 26px; }
+#news_section .news_text{ font-size: 14px; }
+#news_section .pagination_wrap ul li a{ font-size: 12px; }
+
+/*********************** news 2 *************************/
+#news_section_2 .project_text h3{ font-size: 18px; line-height: 26px; }
+#news_section_2 .pagination_wrap ul li a{font-size: 12px;}
+#news_section_2{padding: 45px 0 20px;}
+#news_section_2 .project_img{ min-height: 150px; }
+
+/********************* news 3 *************************/
+#news_section_3 .project_img1{ min-height: 150px; }
+#news_section_3 .project_img2{ min-height: 200px; }
+#news_section_3 .project_img3{ min-height: 300px; }
+#news_section_3 .project_text h3{ font-size: 20px; line-height: 26px; }
+
+/**************************** news 4 *****************************/
+#news_list .features ul li{ padding: 10px; }
+#news_list .features ul li a{ font-size: 11px;}
+#news_list .project_img{ min-height: 280px; left: 0;}
+#news_list .project_text{ padding: 27px 15px; font-size: 13px;line-height: 24px;}
+#news_list .project_text h2{ font-size: 18px; line-height: 26px; }
+#news_list .project_text p{ margin-bottom: 5px; }
+#news_list .project_text a{line-height: 32px;}
+#myCarousel_testimonial .carousel-inner .testimonial{ font-size: 16px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 18px; }
+#news_list .help_wrap a{padding: 8px 26px; font-size: 11px;}
+#news_list .help_wrap h4{ font-size: 15px; }
+#news_list .help_wrap{font-size: 13px;line-height: 22px;}
+#news_list .pagination_wrap ul li a{ font-size: 11px; }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 820px){
+/**************** Home 3 ********************/	
+#header3 .search_section a{ font-size: 10px; padding: 21px 11px;}
+#header3 .navbar-header{ width: 22%; }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 790px){
+/********************** Home 3 *********************/	
+#header3 .search_section a{ font-size: 10px; padding: 21px 9px;}
+#top_header3 .text_wrap ul li a{ font-size: 10px; }
+#top_header3 .social_icon ul li a{ font-size: 10px; }
+#leader_counter .title_text h3{ font-size: 34px; }
+#footer3 .footer_text h4{ font-size: 14px; }
+}
+
+
+
+@media (max-width: 767px){
+.small_screen_center{text-align: center;}	
+
+/********************* About Us ****************************/
+#about_us_team .team_margin_1{ margin-top: 0; }
+#advise_section .advise_img{ min-height: 350px; margin-top: 30px; }
+#advise_section .advise_text_wrap{padding: 50px 15px; text-align: center;}
+#advise_section .advise_text h3{ font-size: 30px; }
+#advise_section .main_counter_content .single_counter h2{ font-size: 46px; }
+#about_us_team .title_text h3{ font-size: 30px; }
+#about_us_team .team_img{ min-height: 200px; }
+#history_section .about_history h2{ font-size: 30px; }
+#history_section .about_history{ text-align: center; padding-bottom: 30px; }
+#history_section .about_history h2:before{ width: 100%; }
+#history_section{ padding-bottom: 50px; }
+#about_us_team .team_wrap{ margin-bottom: 30px; }
+#about_us_team{ padding: 40px 0; }
+#advise_section .advise_text_wrap .common_style{ max-width: 100%; }
+
+/********************* Career ****************************/
+#career .padding_1{ padding-right: 15px; }
+#career .padding_2{ padding-left: 15px; }
+#career .top_img{ margin-bottom: 0; }
+#career .btm_img{ margin: 20px 0; }
+#career .apply_btn{ text-align: center; }
+#career_inner_banner{padding: 100px 0; min-height: 350px;}
+#career .career_title h3{ font-size: 32px; }
+#career .career_title a{ font-size: 15px; }
+#career .about_career h3{ font-size: 32px; }
+#career .middle_title h3{ font-size: 32px; }
+#career .middle_title h4{ font-size: 22px; }
+
+/********************** Shop 3 *************************/
+#about_product .left_wrap{ width: 100%; float: none; margin-right: 0; margin-bottom: 10px; }
+#tab_section .tab-content{ padding: 15px; }
+#related_product .title_text h2:before{ width: 100%; }
+#about_product .book_img{ min-height: 440px; padding-top: 35px; }
+#about_product .product_info h3{ font-size: 32px; }
+#about_product .product_info h4{ font-size: 20px; }
+#about_product .product_info{ font-size: 14px; padding-top: 15px; text-align: center; }
+#about_product .add_to_cart{ text-align: center; }
+#about_product .social_wrap{ font-size: 14px; text-align: center; }
+#tab_section .nav_wrapper ul.nav li a{ font-size: 12px; }
+#related_product .title_text h2{ font-size: 32px; }
+#about_product .add_btn a{ width: 100%; }
+#tab_section .form_wrap input[type=text]{ width: 100%; }
+#tab_section .form_wrap input[type=email]{ width: 100%; }
+#tab_section .col_modi1{ width: 100%; border: none; text-align: center;}
+#tab_section .col_modi2{ width: 100%; text-align: center; padding-left: 15px;}
+#tab_section .your_rating .rating_text{ width: 100%; float: none; }
+#tab_section .your_rating .rating_icon{ float: none; width: 100%; }
+#tab_section .your_rating{ text-align: center; }
+#tab_section .customer_img{ display: inline-block; }
+#tab_section .tab_content_wrapper2 ul li span.title{ width: 20%; }
+#tab_section .tab_content_wrapper2 ul li span.separation{ width: 10%; }
+#tab_section .tab_content_wrapper2 ul li span.description{ width: 70%; }
+#tab_section .tab_content_wrapper1{ text-align: center; }
+#tab_section .tab_content_wrapper2{ font-size: 16px; }
+#tab_section .form_wrap p.review:before{ left: 25%; width: 75%; }
+
+/*********************** Shop 2 **************************/
+#default_shop_page .service_width1{ width: 100%; }
+#default_shop_page .service_width2{ width: 100%; margin-top: 20px;}
+#default_shop_page .features ul li:after{ display: none; }
+#default_shop_page .shop_padding_left{ padding-left: 15px; }
+#default_shop_page .left_sidebar .slider.slider-horizontal{ width: 100%; }
+#default_shop_page .shop_now{ font-size: 20px; }
+#default_shop_page .shop_now p span{ font-size: 13px; }
+#default_shop_page .latest_product .product_img img{ max-width: 20%; }
+#default_shop_page{padding: 60px 0 10px;}
+#default_shop_page .book_img img{ max-width: 30%; }
+#default_shop_page .shop_now a{ display: block; max-width: 200px; margin: 20px auto 0; }
+
+/********************** Shop 1 *************************/
+#shop_our_industry .title_text h4:before{ width: 100%; }
+#newest_publication .title_text h2:before{ width: 100%; left: 0; }
+#copyright .social.social_yellow{ text-align: center; }
+#shop_banner .carousel-control.left{ left: 0; }
+#shop_banner .banner_text h2{ font-size: 35px; margin: 30px 0 10px 0;}
+#shop_banner .banner_bg{ min-height: 400px; }
+#shop_our_industry .title_text h4{ font-size: 30px; }
+#shop_our_industry .title_text{ font-size: 15px; }
+#newest_publication .title_text h2{ font-size: 30px; }
+#testimonial .testimonial_text h2{ font-size: 30px; }
+#testimonial .testimonial_text{ font-size: 15px; }
+#top_header .social_icon{ text-align: center; }
+#shop_our_industry .industry_text{ padding: 25px 0; }
+#shop_banner .carousel-control .glyphicon-chevron-left{ padding: 2px 6px; }
+#shop_banner .carousel-control .glyphicon-chevron-right{ padding: 2px 6px;}
+
+
+/********************* Services 3 *************************/
+#services_detail .service_width1{ width: 100%; }
+#services_detail .service_width2{ width: 100%; }
+#services_detail .left_sidebar{ text-align: center; }
+#services_detail .features ul li:after{ display: none; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 22px; }
+#services_detail .help_wrap h4{ font-size: 22px; }
+#services_detail .specialist_section .img_body{ min-height: 300px; }
+#services_detail .specialist_section .text_body h4{ font-size: 22px; }
+#services_detail .specialist_section .text_body{ font-size: 14px; }
+#services_detail .help_wrap{ font-size: 14px; }
+#services_detail .question_section h3{ font-size: 26px; margin-top: 20px;}
+#services_detail .question_section .accordion{ font-size: 15px; }
+#services_detail .tab-content{ font-size: 14px; }
+#services_detail .tab-content h3{ font-size: 20px; }
+#services_detail .question_section .panel{ font-size: 14px; }
+
+/******************** Services 2 ***********************/
+#service_latest_news .news_text h4{ font-size: 22px; }
+#service_latest_news .news_wrap{ margin-bottom: 20px; }
+
+/******************** Services 1 **************************/
+#service_industry .title_text h4:before{ width: 100%; }
+#service_industry .industry_text{ background-size: 8%; }
+
+/***************************** Project 5 ****************************/
+#project_section_5 .project_5_padding{ padding-left: 15px; }
+#project_section_5 .project_5_padding1{ padding-right: 15px; }
+#project_section_5 .project_5_padding2{ padding-left: 15px; }
+#project_section_5 .middle_img{ margin: 15px 0;}
+#project_section_5 .btm_left_img{ margin-bottom: 15px; }
+#project_section_5 .about_project h3{ font-size: 26px; }
+#project_section_5 .project_info{ padding: 22px 15px;}
+
+/******************************* Project 4 ****************************/
+#project_section_4 .project_text{ padding: 15px; }
+#project_section_4 .project_4_margin{ margin-bottom: 0; margin-top: 0; }
+#project_section_4 .project_wrap{ margin-bottom: 30px; }
+
+/*************************** Project 3 ****************************/
+#project_section_3 .project_3_padding1{ padding-right: 15px; }
+#project_section_3 .project_3_padding2{ padding-left: 15px; }
+#project_section_3 .project_3_margin{ margin-bottom: 0; margin-top: 0; }
+#project_section_3 .project_text h3{ font-size: 24px; }
+#project_section_3 .project_text{ padding:15px; }
+#project_section_3 .project_wrap{ margin-bottom: 30px; }
+
+/********************* Project 2 *************************/
+#project_section_2 .project_2_padding1{ padding-right: 15px; }
+#project_section_2 .project_2_padding2{ padding-left: 15px; }
+#project_section_2 .project_text{ padding: 15px; border-left: 1px solid rgb(234,234,234); width: 100%; float: none;}
+#project_section_2 .project_text h2{ font-size: 25px; }
+#project_section_2 .project_img{ width: 100%; position: static; min-height: 150px; }
+
+/********************** Project 1 ***************************/
+#project_section .career_margin_1{ margin-top: 0; }
+#project_section .common_bg1{ min-height: 200px; }
+#project_section .top_right_img1{ margin: 20px 0; }
+#project_section .btm_left_img1{ margin: 20px 0; }
+#project_section .btm_middle_img{ margin: 20px 0; }
+#project_section .btm_right_img2{ margin-top: 20px; }
+#project_section .common_bg2{ min-height: 350px; }
+#project_section .common_overlay2{padding: 80px 15px; }
+#project_section .common_overlay1{padding: 30px 15px;}
+
+
+/*********************** Our team 2 ****************/
+#our_team_2 .title_text h3{ font-size: 30px; }
+#our_team_2 .title_text{ font-size: 15px; }
+#our_team_2 .team_wrap{ margin-bottom: 20px; }
+
+/*********************** Our team 1 *********************/
+#our_team_1 .team_margin_1{ margin-top: 0; }
+#our_team_1 .title_text h3{ font-size: 32px; }
+#our_team_1 .team_wrap{ margin-bottom: 30px; }
+#get_in_touch .get_text h4{ font-size: 22px; }
+#get_in_touch .get_text{ font-size: 16px; text-align: center;}
+#get_in_touch .get_btn a{ margin-top: 25px; }
+
+/********************* Home 1 *************************/
+#header .contact_info .icon_wrap{ float: none; width: 100%; }
+#header .contact_info .info_wrap{ float: none; width: 100%; padding-top: 50px;}
+#nav_section .nav_warp ul li{ display: block; padding: 8px 0; }
+#banner .btn_wrap a{ float: none; font-size: 12px; display: block;}
+#banner .btn_wrap a.company{ margin: 0 0 10px 0; }
+#our_industry .title_text h4:before{ width: 100%; }
+#our_industry .padding_top{ padding-top: 0; }
+#submit_request .form_wrap input[type=email]{ float: none;width: 100%; margin-bottom: 8px;}
+#latest_news .news_text{ text-align: center; }
+#partners .partner_wrap ul li{ display: none; }
+#footer .footer_text{ text-align: center; }
+#submit_request .form_wrap button{ float: none; width: 100%; }
+#copyright .copyright_text{ text-align: center; }
+#banner .banner_bg{padding: 80px 0;}
+#banner .banner_text{ font-size: 16px; }
+#banner .banner_text h2{ font-size: 46px; }
+#our_industry .title_text h4{ font-size: 30px; }
+#our_industry .title_text{ font-size: 14px; }
+#our_industry .industry_text h5{ font-size: 18px; }
+#our_industry .industry_text{ font-size: 14px; margin-bottom: 22px;}
+#our_projects .project_text h3{ font-size: 30px; }
+#our_projects .project_text{ font-size: 15px; }
+#testimonial .testimonial_text h2{font-size: 30px;}
+#testimonial .testimonial_text{ font-size: 16px; }
+#testimonial .ceo_wrap h5{ font-size: 16px; }
+#submit_request .request_text h2{ font-size: 30px; }
+#submit_request .request_text{ font-size: 15px; }
+#latest_news .title_text h3{ font-size: 30px; }
+#latest_news .news_text h4{ font-size: 20px; }
+
+#our_projects .width_111{ width: 100%; padding: 15px; }
+#our_projects .project_info{padding: 12px 15px 8px;}
+#latest_news .news_img{ min-height: 150px; }
+#latest_news .news_wrap{ margin-bottom: 30px; }
+#quote-carousel .carousel-indicators li{ height: 30px; width: 30px; }
+#quote-carousel .carousel-indicators .active{ height: 80px; width: 80px; }
+#banner .banner_bg{padding: 40px 0 0;}
+#banner .banner_bg{ padding: 100px 0; }
+#our_projects .show_btn a{ margin-bottom: 30px; }
+#testimonial .testimonial_text p{ min-height: 140px; }
+#latest_news{ padding: 55px 0 35px;}
+
+
+/*********** menu responsive ***************/
+#nav_section .search_section{ padding: 15px 0;}
+
+#nav_section .input_wrapper input.search-text{ top: 2px; height: 30px;}
+
+#nav_section .input_wrapper{ padding: 0 15px; }
+
+#nav_section .navbar-inverse .navbar-toggle{ border: none; }
+
+#nav_section .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{ background-color: inherit; }
+
+#nav_section .nav_warp ul li:hover{padding: 8px 0;}
+
+.navbar-nav .open .dropdown-menu{ text-align: center; }
+
+
+/***************** Home 2 *********************/
+#top_header2 .text_wrap ul li{ display: block; }
+#top_header2 .text_wrap ul li:first-child{ padding-right: 5px; margin-right: 0; border: none; }
+#top_header2{ padding-bottom: 15px; }
+#banner2 .btn_wrap a{ float: none; }
+#video_section .width_1{ width: 100%; }
+#video_section .width_2{ width: 100%; padding-left: 15px; }
+#video_section .video_text{ padding-top: 40px; }
+#map .map_img{ width: 100%; height: 250px; position: static; }
+#map .submit_request{ text-align: center; padding: 40px 0 20px; max-width: 100%;}
+#footer .width_modi1{ width: 100%; }
+#footer .width_modi2{ width: 100%; }
+#footer .width_modi3{ width: 100%; }
+#footer .width_modi4{ width: 100%; }
+#footer .width_modi5{ width: 100%; }
+#banner2 .banner_text h2{ font-size: 50px; }
+#testimonial .testimonial_text h2{ font-size: 34px; }
+#testimonial .testimonial_text{ font-size: 16px; }
+#counter .title_text h3{ font-size: 34px; }
+#counter .title_text{ font-size: 16px; }
+#counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 40px; }
+#latest_news2 .title_text h3{ font-size: 34px; }
+#latest_news2 .news_text h3{ font-size: 22px; }
+#banner2 .banner_bg{ padding: 80px 0; min-height: 520px;}
+#header2 .nav_warp ul li:first-child{ margin-left:0; }
+#header2 .navbar-inverse{ text-align: center; }
+#header2 .search_section{ text-align: center; }
+#header2 .input_wrapper{ padding:0 15px; width: 100%;}
+#map .form_wrapper{ padding: 25px 15px; min-height: 490px;}
+#quote-carousel .carousel-indicators li{ height: 30px; width: 30px; }
+#quote-carousel .carousel-indicators .active{ height: 80px; width: 80px; }
+#our_industry_2 .industry_wrap.middle_section{border-top: 1px solid rgb(234,234,234); border-bottom: 1px solid rgb(234,234,234); border-left: none; border-right: none;}
+#top_header2 .social_icon ul li a.get_quote{ padding: 10px 24px;}
+#partners ul.slick-dots li{ display: none; }
+#map .request_text h2{ font-size: 38px; }
+#video_section .video_img img{ max-width: 60%; }
+#map .request_text button{ width: 100%; float: none; }
+#map .request_text input[type=text]{ width: 100%; float: none; }
+#header2 .btn_wrapper{ padding: 15px 0; }
+#header2 .nav_warp ul li{ padding: 0; }
+#header2 .dropdown-menu{ left: 50%; }
+
+/********************* Home 3 ************************/
+.main_header{ position: static;background-color: rgb(4,54,95);
+    opacity: 0.7; }
+#header3 .width_1{ width: 100%; }    
+#header3 .width_2{ width: 100%; }
+#header3 .width_3{ width: 100%; }
+#header3 .header_wrap{ text-align: center; padding: 0 0 15px; }
+#features .border_section{ border: 1px solid rgb(235,235,235); border-left: none; border-right: none; }
+#features .feature_img{ position: static; width: 100%; }
+#features .btm_features .feature_text{ text-align: center; }
+#features .btm_features .feature_icon i{ text-align: center; display: block; }
+#request_call .request_text{ padding: 0 15px 0 0; text-align: center; }
+#request_call .request_form{ margin-right: 0; }
+#footer3 .width_modi1{ width: 100%; }
+#footer3 .width_modi2{ width: 100%; }
+#footer3 .width_modi3{ width: 100%; }
+#footer3 .width_modi4{ width: 100%; }
+#footer3 .width_modi5{ width: 100%; }
+#banner3 .banner_text h2{ font-size: 58px; }
+#banner3{ padding: 90px 0 170px;    min-height: 100%;}
+#leader_counter .title_text h3{ font-size: 40px; }
+#leader_counter .title_text{ font-size: 16px; line-height: 32px; }
+#leader_counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 45px; }
+#request_call .request_text h2{ font-size: 40px; }
+#latest_news3 .title_text h3{ font-size: 32px; }
+#latest_news3 .news_text h3{ font-size: 22px; }
+#features .industry_text{padding: 0 15px 50px;}
+#footer3 .footer_text ul li a:before{ position: static; }
+#copyright3 .social ul li{ padding: 12px; }
+#copyright3 .social ul li a i{ font-size: 16px; }
+#testimonial .testimonial_text h2{ font-size: 32px; }
+#testimonial .testimonial_text{ font-size: 15px; }
+#header3 .search_section a{ float: none; font-size: 12px; padding: 8px 16px; }
+#partners ul.slick-dots li{ display: none; }
+#header3 .nav_warp ul li:first-child a{padding: 0;}
+#header3 .nav_warp ul li:last-child a{ padding: 0; }
+#header3 .nav_warp ul li a{ padding: 0; }
+#header3 .nav_warp ul li{ padding: 0; }
+#features .btm_features .feature_icon{ text-align: center; }
+#latest_news3{ padding: 35px 0 48px;}
+#header3 .dropdown-menu{ left: 50%; }
+
+/******************* contact us 1 ************************/
+#contact_map .support_text p{ margin-bottom: 0; }
+#contact_map .contact_margin{ margin-top: 0; }
+#contact_map .map_img{ height: 300px; }
+#contact_map .location_text h5{ font-size: 22px; }
+#contact_map .location_text{ margin-bottom: 25px; }
+#contact_map .location_wrap{ padding-bottom: 40px; margin-bottom: 40px; }
+#contact_map .support_wrap h2{ font-size: 30px; }
+#contact_map .support_text h4{ font-size: 22px; }
+#contact_map .support_text{ padding: 20px 0; }
+
+#header .contact_info .icon_wrap{ float: none; width: 100%; }
+#header .contact_info .info_wrap{ float: none; width: 100%; padding-top: 50px;}
+#nav_section .nav_warp ul li{ display: block; padding: 8px 0; }
+#footer .footer_text{ text-align: center; }
+#copyright .copyright_text{ text-align: center; }
+#copyright .social.social_yellow ul li{ padding: 12px; }
+#copyright .social.social_yellow ul li a i{ font-size: 16px; }
+#inner_banner .banner_text h4{ font-size: 32px; }
+
+/********************** contact style 2 ****************************/
+#contact_us .form_wrap{ padding-left: 0; }
+#contact_us .map_img{ height: 300px; }
+#contact_us .form_wrap h2{ font-size: 30px; margin: 40px 0 0; }
+#contact_us{ padding: 60px 0; }
+
+
+/************** error page *******************/
+#error_section .content_wrap h1{ font-size: 140px; }
+#error_section .content_wrap h3{ font-size: 32px; }
+#error_section .content_wrap{ font-size: 15px; }
+#error_section .content_wrap a{ font-size: 13px; margin-top: 40px; }
+#error_section{ padding: 50px 0; min-height: 525px; }
+
+/********************* news 1 *************************/
+#news_section .date_section{ float: none; }
+#news_section .popular_section{ float: none; }
+#news_section .fashion{ float: none; }
+#news_section .comments{ float: none; }
+#news_section .news_img{ min-height: 250px; }
+#news_section .fashion p{ padding-right: 0; }
+#news_section .news_text h3{ font-size: 25px; }
+
+/******************* news 2 ***********************/
+#news_section_2 .news_2_margin{ margin-bottom: 0; margin-top: 0; }
+#news_section_2 .project_text h3{ font-size: 22px; }
+#news_section_2 .project_wrap{ margin-bottom: 30px; }
+
+/******************* news 3 *************************/
+#news_section_3 .news_3_padding1{ padding-right: 15px; }
+#news_section_3 .news_3_padding2{ padding-left: 15px; }
+#news_section_3 .news_3_margin{ margin-bottom: 0; margin-top: 0; }
+#news_section_3 .project_wrap{margin-bottom: 30px; margin-top: 30px;}
+#news_section_3 .project_text{ padding: 15px; }
+#news_section_3{padding: 40px 0 60px;}
+#news_section_3 .project_text h3{ font-size: 24px; }
+#news_section_3 .project_img2{ min-height: 260px; }
+#news_section_3 .project_img1{ min-height: 186px; }
+#news_section_3 .project_img3{ min-height: 355px; }
+#news_section_3 .load_btn{ margin-top: 26px; }
+
+/********************* news 4 **********************/
+#news_list .service_width1{ width: 100%; }
+#news_list .service_width2{ width: 100%; }
+#news_list .features ul li:after{ display: none; }
+#news_list .project_2_padding1{ padding-right: 15px; }
+#news_list .project_2_padding2{ padding-left: 15px; }
+#news_list .project_text{ padding: 15px;  border-left: 1px solid rgb(234,234,234); }
+#news_list .news_4_margin{ margin-bottom: 25px; margin-top: 25px; }
+#news_list .features ul li a{ font-size: 14px; }
+#myCarousel_testimonial .carousel-inner .testimonial{ font-size: 16px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 20px; }
+#news_list .help_wrap h4{ font-size: 22px; }
+#news_list .project_text h2{ font-size: 25px; }
+#news_list .project_img{ width: 100%; position: static; min-height: 250px;}
+#news_list .project_text{ width: 100%; float: none; }
+}
+	   
+
+@media (max-width: 680px){
+/******************* Home 3 *****************/	
+#banner3 .banner_text h2{ font-size: 48px; }
+#banner3 .banner_text{ font-size: 16px; line-height: 32px; }
+#leader_counter .title_text h3{ font-size: 35px; }
+#leader_counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 38px; }
+#request_call .request_text h2{ font-size: 35px; }
+#latest_news3 .title_text h3{ font-size: 28px; }
+#latest_news3 .news_text h3{ font-size: 20px; }
+#top_header3 .input_wrapper input.search-text{ height: 30px; }
+}
+
+
+@media (max-width: 668px){
+#header .logo img{ max-width: 50%; }
+#header .contact_info h6{ font-size: 14px; }
+#header .contact_info{ font-size: 12px; }
+#header .quote_btn a{ font-size: 12px;padding: 8px 20px; }
+#banner .banner_bg{ padding: 60px 0;}
+#our_industry .industry_text{ background-size: 8%;}
+#our_industry{ padding: 50px 0 30px;}
+#our_projects .show_btn a{ font-size: 12px;padding: 8px 20px; margin-bottom: 20px;}
+#our_projects .project_text p{ margin-bottom: 35px; }
+#our_projects .project_info{ font-size: 16px; }
+#our_projects .project_info p span{ font-size: 12px; }
+#our_projects .project_img{ min-height: 200px; }
+#latest_news .news_wrap{ margin-bottom: 20px; }
+#copyright .social.social_yellow ul li{ padding: 8px; }
+#latest_news{padding: 40px 0 30px;}
+
+/********************** Home 2 ***************************/
+#header2 .input_wrapper input.search-text{ height: 30px; top: 28px; }
+#top_header2 .social_icon ul li a.get_quote{ font-size: 12px;padding: 8px 18px; }
+
+/******** Project 4 *************/
+#project_section_4 .project_text h3{ font-size: 22px; }
+
+/************************ Project 5 ****************************/
+#project_section_5 .top_img{ min-height: 150px; }
+#project_section_5 .middle_img{ min-height: 250px;}
+#project_section_5 .btm_left_img{ min-height: 170px; }
+#project_section_5 .btm_right_img{ min-height: 170px; }
+
+/*************** Shop 1 ***************/
+#shop_banner{ min-height: 300px; }
+#shop_our_industry{ padding: 45px 0 25px;}
+
+/***************** Shop 2 *********************/
+#default_shop_page .shop_now a{ max-width: 135px;padding: 4px 15px; }
+}
+
+
+
+@media (max-width: 430px) {
+/*********************** About Us ***************************/	
+#advise_section .advise_img{ min-height: 250px; margin-top: 20px; }
+#advise_section .advise_text_wrap{ padding: 15px; }
+#advise_section .advise_text h3{ font-size: 25px; }
+#advise_section .advise_text{ font-size: 14px; }
+#advise_section .main_counter_content .single_counter h2{ font-size: 38px; }
+#about_us_team .title_text h3{ font-size: 26px; }
+#about_us_team .team_img{ min-height: 150px; }
+#about_us_team .team_info{ font-size: 16px; }
+#about_us_team .team_info p span{ font-size: 13px; }
+#about_us_team .team_wrap{ margin-bottom: 15px; }
+#about_us_team{padding: 25px 0;}
+#history_section .about_history h2{ font-size: 25px; }
+#history_section .about_history{ margin-bottom: 20px; }
+#history_section{ padding-bottom: 15px; }
+#history_section .time-table h6{ font-size: 15px; }
+#history_section .timeline-des h6{ font-size: 15px; }
+#history_section .timeline-des{ padding-left: 22px; font-size: 13px; line-height: 25px;}
+
+/******************* Career **********************/
+#career_inner_banner{ padding: 40px 0; }
+#career_inner_banner .banner_text h4{ font-size: 14px; }
+#career_inner_banner .banner_text h2{ font-size: 38px; }
+#career_inner_banner .banner_text{ font-size: 14px; line-height: 28px; }
+#career_inner_banner .banner_text a{ font-size: 12px; }
+#career_inner_banner{ min-height: 330px; }
+#career .career_title h3{ font-size: 28px; }
+#career .career_title a{ font-size: 14px; }
+#career .about_career h3{ font-size: 28px; }
+#career .about_career{ font-size: 14px; }
+#career .about_career a{ font-size: 12px; padding: 10px 28px;}
+#career .middle_title h3{ font-size: 28px; }
+#career .middle_title{ font-size: 14px; line-height: 28px; }
+#career .middle_title h4{ font-size: 20px; }
+#career .info_text{ font-size: 14px; }
+#career .apply_btn a{ font-size: 12px; padding: 10px 16px; }
+
+/********************* Shop 3 **************************/	
+#about_product .book_img{min-height: 250px; padding-top: 10px;}
+#about_product .product_info h3{ font-size: 22px; }
+#about_product .product_info h4{ font-size: 16px; }
+#about_product .product_info{ font-size: 13px; }
+#about_product .social_wrap{ font-size: 12px; }
+#about_product .social_wrap ul.btm_section li{ padding-right: 25px;}
+#tab_section .nav_wrapper ul.nav li a{ font-size: 10px;padding: 4px 2px; }
+#related_product .title_text h2{ font-size: 26px; }
+#related_product .book_img img{ max-width: 50%; }
+#related_product .book_img{min-height: 338px;}
+#related_product .book_info{ font-size: 14px; }
+#related_product .book_info h6{ font-size: 15px; }
+#related_product .book_info p{ margin-bottom: 0; }
+#tab_section .tab-content{ font-size: 13px; }
+#tab_section .tab_content_wrapper2{ font-size: 14px; }
+#tab_section .tab_content_wrapper1{ font-size: 14px; }
+#tab_section .review_text{ font-size: 13px; }
+
+/*********************** Shop 2 *************************/
+#default_shop_page .features ul li a{ font-size: 13px; }
+#default_shop_page .filter_section h5{ font-size: 12px; }
+#default_shop_page .filter_section{ font-size: 12px; }
+#default_shop_page .filter_section a{ font-size: 11px; }
+#default_shop_page .shop_now p span{ font-size: 12px; }
+#default_shop_page .shop_now{ font-size: 18px; }
+#default_shop_page .latest_product h4{ font-size: 12px; }
+#default_shop_page .shop_now img{ max-width: 50%; }
+#default_shop_page .latest_product .product_img img{ max-width: 20%; }
+#default_shop_page .latest_product .product_info{ font-size: 15px; }
+#default_shop_page .latest_product .product_info h6{ font-size: 16px; }
+#default_shop_page .book_img img{ max-width: 40%; }
+#default_shop_page .book_info{ font-size: 15px; }
+#default_shop_page .book_info h6{ font-size: 16px; }
+#default_shop_page{padding: 40px 0 5px;}
+
+/******************* Shop 1 **********************/
+#shop_banner .banner_text h2{ font-size: 28px; margin: 25px 0 10px 0; }
+#shop_banner .banner_bg{ min-height: 200px; padding: 45px 0; }
+#shop_our_industry .title_text h4{ font-size: 22px; }
+#shop_our_industry .title_text{ font-size: 13px; }
+#shop_our_industry .industry_img{ min-height: 150px; }
+#shop_our_industry .industry_text h5{ font-size: 16px; }
+#shop_our_industry .industry_text{font-size: 13px;line-height: 24px;}
+#shop_our_industry .industry_text a{ font-size: 12px; }
+#newest_publication .title_text h2{ font-size: 24px; }
+#newest_publication .book_img img{ max-width: 40%; }
+#newest_publication .book_img{ min-height: 280px; }
+#newest_publication .book_info{ min-height: 14px; margin-bottom: 15px; }
+#newest_publication .book_info h6{ font-size: 14px; }
+#newest_publication .book_info p{ margin-bottom: 0; }
+
+
+/********************** services 3 **************************/	
+#services_detail .features ul li a{ font-size: 14px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 20px; }
+#services_detail .help_wrap h4{ font-size: 20px; }
+#services_detail .question_section .panel{ font-size: 13px; }
+#services_detail .specialist_section .img_body{ min-height: 200px; }
+#services_detail .specialist_section .text_body h4{ font-size: 20px; }
+#services_detail .specialist_section .text_body{ font-size: 14px; }
+#services_detail .question_section h3{ font-size: 22px; }
+#services_detail .question_section .accordion{ font-size: 12px; }
+#services_detail .nav_wrapper ul.nav li a{font-size: 10px;line-height: 18px;}
+#services_detail .tab-content{font-size: 12px; padding: 15px;}
+#services_detail .tab-content h3{ font-size: 18px; }
+#services_detail .question_section{ padding-bottom: 20px;}
+#services_detail{ padding: 55px 0;}
+
+/******************* services 2 ********************/
+#service_latest_news .news_text h4{ font-size: 20px; }
+
+/******************** Services 1 ************************/
+#service_industry .title_text h4{ font-size: 30px; }
+#service_industry .title_text{ font-size: 14px; }
+#service_industry .industry_text h5{ font-size: 18px; }
+#service_industry .industry_text{ font-size: 14px; }
+#service_industry .industry_text{ background-size: 10%; }
+
+/********************* Project 5 ***********************/
+#project_section_5 .about_project h3{ font-size: 22px; }
+#project_section_5 .about_project{ font-size: 14px; }
+#project_section_5{ padding: 40px 0; }
+#project_section_5 .project_info ul li{ font-size: 13px; }
+
+/*********************** Project 4 ***********************/
+#project_section_4 .project_img{ min-height: 150px; }
+#project_section_4 .project_text h3{ font-size: 20px; line-height: 26px; }
+#project_section_4 .pagination_wrap ul li a{ font-size: 11px; }
+#project_section_4 .project_wrap{ margin-bottom: 20px; }
+#project_section_4{ padding: 40px 0; }
+
+/************************ Project 3 **************************/
+#project_section_3 .project_wrap{ margin-bottom: 20px; }
+#project_section_3 .project_img{ min-height: 150px; }
+#project_section_3 .project_text h3{ font-size: 22px; }
+#project_section_3 .pagination_wrap ul li a{ font-size: 11px; }
+#project_section_3{ padding: 38px 0 0; }
+
+/*********************** Project 2 **********************/
+#project_section_2 .project_text h2{ font-size: 22px; }
+#project_section_2 .project_img{ min-height: 250px; }
+
+/******************** Project 1 ***********************/
+#project_section .common_bg1{ min-height: 200px; }
+#project_section .top_right_img1{ margin: 15px 0; }
+#project_section .btm_left_img1{ margin: 15px 0; }
+#project_section .btm_middle_img{ margin: 15px 0; }
+#project_section .btm_right_img2{ margin-top: 15px; }
+#project_section .common_bg2{ min-height: 270px; }
+#project_section{ padding: 35px 0; }
+#project_section .common_overlay1{padding: 10px 15px; }
+#project_section .common_bg h2{ font-size: 22px; line-height: 28px; }
+#project_section .common_overlay1 h2{ font-size: 15px; line-height: 22px;}
+#project_section .common_overlay2{ padding: 15px; }
+
+/******************** Our team 2 *****************/
+#our_team_2 .title_text h3{ font-size: 25px; }
+#our_team_2 .title_text{ font-size: 14px; line-height: 24px; }
+
+/*******************Our team 1 ********************/
+#our_team_1 .title_text h3{ font-size: 28px; }
+#our_team_1 .team_info{ font-size: 15px; }
+#our_team_1 .team_info p span{ font-size: 13px; }
+#our_team_1 .team_wrap{ margin-bottom: 20px; }
+#get_in_touch .get_text h4{ font-size: 18px; }
+#get_in_touch .get_text{ font-size: 14px; line-height: 28px; }
+#get_in_touch .get_btn a{ font-size: 12px; margin-top: 20px; padding: 8px 24px;}
+#our_team_1{ padding: 35px 0;}
+
+/******************* Home 1 ***********************/	
+#our_industry .title_text h4{ font-size: 30xp; }
+#our_industry .industry_text{ margin: 0 0 20px 0}
+#our_projects .project_text h3{ font-size: 30px; }
+#testimonial .testimonial_text h2{ font-size: 30px; }
+#submit_request .request_text h2{ font-size: 30px; }
+#latest_news .title_text h3{ font-size: 30px; }
+
+/***************** Home 2 ***************************/
+#map .request_text h2{ font-size: 32px; }
+#latest_news2 .news_text h3{ font-size: 20px; }
+#latest_news2 .title_text h3{ font-size: 30px; }
+#testimonial .testimonial_text h2{ font-size: 30px; }
+#our_industry_2 .title_text h3{ font-size: 30px; }
+#video_section .video_text h3{ font-size: 28px; }
+#banner2 .btn_wrap a{ display: block; }
+#banner2 .btn_wrap a.company{ margin: 0 0 10px 0; }	
+#banner2 .banner_bg{ padding: 50px 0; min-height: 500px;}
+#banner2 .banner_text h2{ font-size: 38px; }
+#video_section .video_text h3{ margin: 20px 0; }
+#counter .title_text h3{ font-size: 30px; }
+#counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 40px; }
+
+/*********************** Home 3 ************************/
+#banner3 .banner_text h2{ font-size: 45px; }	
+#banner3 .banner_text{ font-size: 14px; line-height: 28px; }
+#banner3{ min-height: 100%; padding: 46px 0 125px; }
+#features .btm_features .feature_text h4{ font-size: 16px; font-size: 14px;}
+#leader_counter .title_text h3{ font-size: 34px; }
+#leader_counter .title_text{ font-size: 14px; line-height: 28px; }
+#leader_counter .main_counter_area .main_counter_content .single_counter h2{ font-size: 35px; }
+#testimonial .testimonial_text h2{ font-size: 30px; }
+#testimonial .testimonial_text{ font-size: 14px; }
+#request_call .request_text{ font-size: 14px; }
+#request_call .request_text h2{ font-size: 30px; }
+#latest_news3 .title_text h3{ font-size: 30px; }
+#latest_news3 .news_text h3{ font-size: 18px; }
+#copyright3 .copyright_text{ font-size: 12px; }
+#banner3 .btn_wrap a{    padding: 10px 25px; display: block;}
+#banner3 .btn_wrap a.company{ margin-bottom: 10px; margin-right: 0; }
+#top_header3 .social_icon ul li.left_space{ padding-left: 5px; }
+#quote-carousel .carousel-indicators .active{ height: 80px; width: 80px; }
+#quote-carousel .carousel-indicators li{ height: 30px; width: 30px; }
+#footer3 .footer_text ul li a{ padding-left: 0; }
+#copyright3 .social ul li{padding: 8px 8px;}
+#copyright3 .social ul li a i{ font-size: 12px; }
+
+/******************* contact us 1 ************************/
+#contact_map .map_img{ height: 200px; }
+#contact_map .location_text h5{ font-size: 20px; }
+#contact_map .location_text{ font-size: 13px; margin-bottom: 20px;}
+#contact_map .location_wrap{padding-bottom: 15px;margin-bottom: 35px;}
+#contact_map .support_wrap h2{ font-size: 24px; }
+#contact_map .support_img{ min-height: 150px; }
+#contact_map .support_text h4{ font-size: 20px; }
+#contact_map .support_text{ font-size: 14px; padding: 15px 0;}
+#contact_map{ padding: 40px 0; }
+
+#copyright .social.social_yellow ul li{ padding: 8px; }
+#copyright .copyright_text{ font-size: 12px; }
+#copyright .social.social_yellow ul li a i{ font-size: 12px; }
+#inner_banner .banner_text h4{ font-size: 28px; }
+#inner_banner .banner_text span.expanded_text{ font-size: 14px; }
+#inner_banner .banner_text a{ font-size: 14px; }
+
+/****************** contact style 2 ***********************/
+#contact_us .map_img{ height: 150px; }
+#contact_us .form_wrap h2{ font-size: 26px; margin: 35px 0 0;}
+#contact_us{ padding: 40px 0; }
+#contact_us .form_wrap button{font-size: 10px; padding: 5px 20px;}
+#contact_us .form_wrap textarea{ margin-bottom: 30px; }
+
+/***************** error page *********************/
+#error_section .content_wrap h1{ font-size: 90px; }
+#error_section .content_wrap h3{ font-size: 28px; }
+#error_section .content_wrap{ font-size: 14px; }
+#error_section .content_wrap a{ font-size: 12px; margin-top: 40px; padding: 10px 28px;}
+#error_section{ padding: 30px 0; min-height: 200px; }
+
+/******************* news 1 *************************/
+#news_section .news_img{ min-height: 150px; }
+#news_section .news_text h3{ font-size: 18px; }
+#news_section .news_text{ font-size: 14px; }
+#news_section .pagination_wrap ul li a{ font-size: 11px; }
+
+/************************ news 2 *************************/
+#news_section_2 .project_text h3{ font-size: 18px; }
+#news_section_2 .project_wrap{ margin-bottom: 20px; }
+#news_section_2 .project_img{ min-height: 150px; }
+#news_section_2 .pagination_wrap ul li a{ font-size: 11px; }
+#news_section_2{ padding: 40px 0 10px;}
+
+/************************* news 3 ***************************/
+#news_section_3{ padding: 30px 0 40px; }
+#news_section_3 .project_wrap{margin-bottom: 20px; margin-top: 20px;}
+#news_section_3 .load_btn{ margin-top: 15px; }
+#news_section_3 .project_img1{ min-height: 150px; }
+#news_section_3 .project_text h3{ font-size: 20px; line-height: 26px; }
+#news_section_3 .project_img2{ min-height: 200px; }
+#news_section_3 .project_img3{ min-height: 300px; }
+
+/************************* news 4 *************************/
+#news_list .features ul li a{ font-size: 13px; }
+#myCarousel_testimonial .carousel-inner .testimonial{ font-size: 13px; line-height: 26px; }
+#myCarousel_testimonial .carousel-inner .overview b{ font-size: 16px; }
+#news_list .help_wrap a{ font-size: 10px; padding: 4px 30px; }
+#news_list .help_wrap .help_img{ min-height: 150px; }
+#news_list .help_wrap h4{ font-size: 18px; }
+#news_list .help_wrap{ font-size: 13px; }
+#news_list .project_img{ min-height: 250px; }
+#news_list .project_text h2{ font-size: 18px; }
+#news_list .project_text{ font-size: 13px; }
+#news_list .pagination_wrap ul li a{ font-size: 11px; }
+}

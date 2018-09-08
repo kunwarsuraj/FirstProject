@@ -1,0 +1,132 @@
+
+
+@font-face {
+    font-family: 'arialregular';
+    src: url('../fonts/arial-webfont.woff2') format('woff2'),
+         url('../fonts/arial-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'arialbold';
+    src: url('../fonts/arialbd-webfont.woff2') format('woff2'),
+         url('../fonts/arialbd-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arialbold_italic';
+    src: url('../fonts/arial_bold_italic-webfont.woff2') format('woff2'),
+         url('../fonts/arial_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arialblack';
+    src: url('../fonts/arial_black-webfont.woff2') format('woff2'),
+         url('../fonts/arial_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ambleregular';
+    src: url('../fonts/amble-regular-webfont.woff2') format('woff2'),
+         url('../fonts/amble-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'amblebold';
+    src: url('../fonts/amble-bold-webfont.woff2') format('woff2'),
+         url('../fonts/amble-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'amblebold_italic';
+    src: url('../fonts/amble-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/amble-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'ambleitalic';
+    src: url('../fonts/amble-italic-webfont.woff2') format('woff2'),
+         url('../fonts/amble-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'aller_displayregular';
+    src: url('../fonts/allerdisplay-webfont.woff2') format('woff2'),
+         url('../fonts/allerdisplay-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'helveticabold';
+    src: url('../fonts/helvetica_bold-webfont.eot');
+    src: url('../fonts/helvetica_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helvetica_bold-webfont.woff2') format('woff2'),
+         url('../fonts/helvetica_bold-webfont.woff') format('woff'),
+         url('../fonts/helvetica_bold-webfont.ttf') format('truetype'),
+         url('../fonts/helvetica_bold-webfont.svg#helveticabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'Helvetica';
+	src: url('../fonts/Helvetica.eot');
+	src: url('../fonts/Helvetica.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Helvetica.woff') format('woff'),
+		url('../fonts/Helvetica.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir LT Std heavy';
+	src: url('../fonts/AvenirLTStd-Heavy.eot');
+	src: url('../fonts/AvenirLTStd-Heavy.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/AvenirLTStd-Heavy.woff') format('woff'),
+		url('../fonts/AvenirLTStd-Heavy.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/opensans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'avenir_85_heavyregular';
+    src: url('../fonts/avenir_heavy_font_download-webfont.woff2') format('woff2'),
+         url('../fonts/avenir_heavy_font_download-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
